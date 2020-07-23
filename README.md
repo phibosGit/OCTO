@@ -1,4 +1,4 @@
-## Welcome to OCTO
+## Welcome
 
 We work daily on different solutions with several professionals from different areas to create the best decentralized applications
 
