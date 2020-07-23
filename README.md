@@ -30,4 +30,4 @@ For more details se.
 
 ### Support or Contact
 
-Having trouble withl help you sort it out.
+https://t.me/OCTO_Waves_Token
