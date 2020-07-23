@@ -28,10 +28,6 @@ Syntax highlighted code block
 
 For more details se.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll tfiguration file.
-
 ### Support or Contact
 
 Having trouble withl help you sort it out.
